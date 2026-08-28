@@ -1369,6 +1369,14 @@ The production application will run using the optimized Next.js build.
 
 # ☁️ Deployment
 
+The application is deployed on Netlify and is publicly available at:
+
+🌐 Production
+
+Live Website:
+https://shoppingeco.netlify.app/
+
+
 The project includes a `netlify.toml` configuration.
 
 Current deployment configuration:
