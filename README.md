@@ -70,6 +70,26 @@ The project was designed with a strong focus on:
 The storefront follows a premium editorial design approach rather than a generic e-commerce template, providing a clean visual hierarchy and a smooth shopping journey.
 
 ---
+# 🌐 Live Demo
+
+The Maison e-commerce platform is deployed and publicly accessible through Netlify.
+
+**Production Website:**
+
+👉 https://shoppingeco.netlify.app/
+
+The live application provides access to the complete storefront experience, including:
+
+* 🏠 Homepage
+* 🛍️ Product catalog
+* 🗂️ Product categories
+* 📦 Product details
+* ⭐ Product reviews and ratings
+* 🛒 Shopping cart
+* 💰 Product pricing and discounts
+* 📱 Responsive mobile experience
+* 🎨 Modern responsive UI
+---
 
 # 🎯 Project Vision
 
